@@ -2,7 +2,6 @@
 // LeetCode Problem: Create Hello World Function
 // Difficulty: Easy
 // Concept: Closures (Function returning another function)
-// Problem Link: https://leetcode.com/problems/create-hello-world-function/
 
 /*
   This function returns another function.
