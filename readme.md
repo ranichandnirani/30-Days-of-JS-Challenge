@@ -29,26 +29,6 @@ This repository contains my solutions to **LeetCode's 30 Days of JavaScript** st
 - 💡 Time and space complexity analysis
 - 🔗 Links to LeetCode problems
 
----
-
-## 👨‍💻 Challenge Completed By
-
-<div align="center">
-
-### **Chandni Rani**
-
-[![GitHub](https://img.shields.io/badge/GitHub-ranichandnirani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranichandnirani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandni--rani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandni-rani)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ranichandnirani-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ranichandnirani)
-[![Email](https://img.shields.io/badge/Email-chandnirani229%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandnirani229@gmail.com)
-
-**🎯 Completion Date:** January 2026  
-**⏱️ Duration:** 30 Days  
-**💯 Success Rate:** 100%
-
-</div>
-
----
 
 ## 📊 Progress Tracker
 
