@@ -31,6 +31,25 @@ This repository contains my solutions to **LeetCode's 30 Days of JavaScript** st
 
 ---
 
+## 👨‍💻 Challenge Completed By
+
+<div align="center">
+
+### **Chandni Rani**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ranichandnirani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranichandnirani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandni--rani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandni-rani)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ranichandnirani-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ranichandnirani)
+[![Email](https://img.shields.io/badge/Email-chandnirani229%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandnirani229@gmail.com)
+
+**🎯 Completion Date:** January 2026  
+**⏱️ Duration:** 30 Days  
+**💯 Success Rate:** 100%
+
+</div>
+
+---
+
 ## 📊 Progress Tracker
 
 <div align="center">
@@ -41,36 +60,36 @@ This repository contains my solutions to **LeetCode's 30 Days of JavaScript** st
 
 | Day | Problem Name | Difficulty | Solution | LeetCode Link | Status |
 |-----|--------------|------------|----------|---------------|--------|
-| 001 | Create Hello World Function | 🟢 Easy | [📝 Solution](./Day-001/) | [🔗 Problem](https://leetcode.com/problems/create-hello-world-function/) | ✅ |
-| 002 | Counter | 🟢 Easy | [📝 Solution](./Day-002/) | [🔗 Problem](https://leetcode.com/problems/counter/) | ✅ |
-| 003 | To Be Or Not To Be | 🟢 Easy | [📝 Solution](./Day-003/) | [🔗 Problem](https://leetcode.com/problems/to-be-or-not-to-be/) | ✅ |
-| 004 | Counter II | 🟢 Easy | [📝 Solution](./Day-004/) | [🔗 Problem](https://leetcode.com/problems/counter-ii/) | ✅ |
-| 005 | Apply Transform Over Each Element in Array | 🟢 Easy | [📝 Solution](./Day-005/) | [🔗 Problem](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | ✅ |
-| 006 | Filter Elements from Array | 🟢 Easy | [📝 Solution](./Day-006/) | [🔗 Problem](https://leetcode.com/problems/filter-elements-from-array/) | ✅ |
-| 007 | Array Reduce Transformation | 🟢 Easy | [📝 Solution](./Day-007/) | [🔗 Problem](https://leetcode.com/problems/array-reduce-transformation/) | ✅ |
-| 008 | Function Composition | 🟢 Easy | [📝 Solution](./Day-008/) | [🔗 Problem](https://leetcode.com/problems/function-composition/) | ✅ |
-| 009 | Return Length of Arguments Passed | 🟢 Easy | [📝 Solution](./Day-009/) | [🔗 Problem](https://leetcode.com/problems/return-length-of-arguments-passed/) | ✅ |
-| 010 | Allow One Function Call | 🟢 Easy | [📝 Solution](./Day-010/) | [🔗 Problem](https://leetcode.com/problems/allow-one-function-call/) | ✅ |
-| 011 | Memoize | 🟡 Medium | [📝 Solution](./Day-011/) | [🔗 Problem](https://leetcode.com/problems/memoize/) | ✅ |
-| 012 | Add Two Promises | 🟢 Easy | [📝 Solution](./Day-012/) | [🔗 Problem](https://leetcode.com/problems/add-two-promises/) | ✅ |
-| 013 | Sleep | 🟢 Easy | [📝 Solution](./Day-013/) | [🔗 Problem](https://leetcode.com/problems/sleep/) | ✅ |
-| 014 | Timeout Cancellation | 🟢 Easy | [📝 Solution](./Day-014/) | [🔗 Problem](https://leetcode.com/problems/timeout-cancellation/) | ✅ |
-| 015 | Interval Cancellation | 🟢 Easy | [📝 Solution](./Day-015/) | [🔗 Problem](https://leetcode.com/problems/interval-cancellation/) | ✅ |
-| 016 | Promise Time Limit | 🟡 Medium | [📝 Solution](./Day-016/) | [🔗 Problem](https://leetcode.com/problems/promise-time-limit/) | ✅ |
-| 017 | Cache With Time Limit | 🟡 Medium | [📝 Solution](./Day-017/) | [🔗 Problem](https://leetcode.com/problems/cache-with-time-limit/) | ✅ |
-| 018 | Debounce | 🟡 Medium | [📝 Solution](./Day-018/) | [🔗 Problem](https://leetcode.com/problems/debounce/) | ✅ |
-| 019 | Execute Asynchronous Functions in Parallel | 🟡 Medium | [📝 Solution](./Day-019/) | [🔗 Problem](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | ✅ |
-| 020 | Is Object Empty | 🟢 Easy | [📝 Solution](./Day-020/) | [🔗 Problem](https://leetcode.com/problems/is-object-empty/) | ✅ |
-| 021 | Chunk Array | 🟢 Easy | [📝 Solution](./Day-021/) | [🔗 Problem](https://leetcode.com/problems/chunk-array/) | ✅ |
-| 022 | Array Prototype Last | 🟢 Easy | [📝 Solution](./Day-022/) | [🔗 Problem](https://leetcode.com/problems/array-prototype-last/) | ✅ |
-| 023 | Group By | 🟡 Medium | [📝 Solution](./Day-023/) | [🔗 Problem](https://leetcode.com/problems/group-by/) | ✅ |
-| 024 | Sort By | 🟢 Easy | [📝 Solution](./Day-024/) | [🔗 Problem](https://leetcode.com/problems/sort-by/) | ✅ |
-| 025 | Join Two Arrays by ID | 🟡 Medium | [📝 Solution](./Day-025/) | [🔗 Problem](https://leetcode.com/problems/join-two-arrays-by-id/) | ✅ |
-| 026 | Flatten Deeply Nested Array | 🟡 Medium | [📝 Solution](./Day-026/) | [🔗 Problem](https://leetcode.com/problems/flatten-deeply-nested-array/) | ✅ |
-| 027 | Compact Object | 🟡 Medium | [📝 Solution](./Day-027/) | [🔗 Problem](https://leetcode.com/problems/compact-object/) | ✅ |
-| 028 | Event Emitter | 🟡 Medium | [📝 Solution](./Day-028/) | [🔗 Problem](https://leetcode.com/problems/event-emitter/) | ✅ |
-| 029 | Array Wrapper | 🟢 Easy | [📝 Solution](./Day-029/) | [🔗 Problem](https://leetcode.com/problems/array-wrapper/) | ✅ |
-| 030 | Calculator with Method Chaining | 🟡 Medium | [📝 Solution](./Day-030/) | [🔗 Problem](https://leetcode.com/problems/calculator-with-method-chaining/) | ✅ |
+| 001 | Create Hello World Function | 🟢 Easy | [**📝 Solution**](./001-Day/2667-Create-Hello-World-Function.js) | [**🔗 Problem**](https://leetcode.com/problems/create-hello-world-function/) | ✅ |
+| 002 | Counter | 🟢 Easy | [**📝 Solution**](./002-Day/2620-Counter.js) | [**🔗 Problem**](https://leetcode.com/problems/counter/) | ✅ |
+| 003 | To Be Or Not To Be | 🟢 Easy | [**📝 Solution**](./003-Day/2704-To-Be-Or-Not-To-Be.js) | [**🔗 Problem**](https://leetcode.com/problems/to-be-or-not-to-be/) | ✅ |
+| 004 | Counter II | 🟢 Easy | [**📝 Solution**](./004-Day/2665-Counter-II.js) | [**🔗 Problem**](https://leetcode.com/problems/counter-ii/) | ✅ |
+| 005 | Apply Transform Over Each Element in Array | 🟢 Easy | [**📝 Solution**](./005-Day/2635-Apply-Transform-Over-Each-Element-in-Array.js) | [**🔗 Problem**](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | ✅ |
+| 006 | Filter Elements from Array | 🟢 Easy | [**📝 Solution**](./006-Day/2634-Filter-Elements-from-Array.js) | [**🔗 Problem**](https://leetcode.com/problems/filter-elements-from-array/) | ✅ |
+| 007 | Array Reduce Transformation | 🟢 Easy | [**📝 Solution**](./007-Day/2626-Array-Reduce-Transformation.js) | [**🔗 Problem**](https://leetcode.com/problems/array-reduce-transformation/) | ✅ |
+| 008 | Function Composition | 🟢 Easy | [**📝 Solution**](./008-Day/2629-Function-Composition.js) | [**🔗 Problem**](https://leetcode.com/problems/function-composition/) | ✅ |
+| 009 | Return Length of Arguments Passed | 🟢 Easy | [**📝 Solution**](./009-Day/2703-Return-Length-of-Arguments-Passed.js) | [**🔗 Problem**](https://leetcode.com/problems/return-length-of-arguments-passed/) | ✅ |
+| 010 | Allow One Function Call | 🟢 Easy | [**📝 Solution**](./010-Day/2666-Allow-One-Function-Call.js) | [**🔗 Problem**](https://leetcode.com/problems/allow-one-function-call/) | ✅ |
+| 011 | Memoize | 🟡 Medium | [**📝 Solution**](./011-Day/2623-Memoize.js) | [**🔗 Problem**](https://leetcode.com/problems/memoize/) | ✅ |
+| 012 | Add Two Promises | 🟢 Easy | [**📝 Solution**](./012-Day/2723-Add-Two-Promises.js) | [**🔗 Problem**](https://leetcode.com/problems/add-two-promises/) | ✅ |
+| 013 | Sleep | 🟢 Easy | [**📝 Solution**](./013-Day/2621-Sleep.js) | [**🔗 Problem**](https://leetcode.com/problems/sleep/) | ✅ |
+| 014 | Timeout Cancellation | 🟢 Easy | [**📝 Solution**](./014-Day/2715-Timeout-Cancellation.js) | [**🔗 Problem**](https://leetcode.com/problems/timeout-cancellation/) | ✅ |
+| 015 | Interval Cancellation | 🟢 Easy | [**📝 Solution**](./015-Day/2725-Interval-Cancellation.js) | [**🔗 Problem**](https://leetcode.com/problems/interval-cancellation/) | ✅ |
+| 016 | Promise Time Limit | 🟡 Medium | [**📝 Solution**](./016-Day/2637-Promise-Time-Limit.js) | [**🔗 Problem**](https://leetcode.com/problems/promise-time-limit/) | ✅ |
+| 017 | Cache With Time Limit | 🟡 Medium | [**📝 Solution**](./017-Day/2622-Cache-With-Time-Limit.js) | [**🔗 Problem**](https://leetcode.com/problems/cache-with-time-limit/) | ✅ |
+| 018 | Debounce | 🟡 Medium | [**📝 Solution**](./018-Day/2627-Debounce.js) | [**🔗 Problem**](https://leetcode.com/problems/debounce/) | ✅ |
+| 019 | Execute Asynchronous Functions in Parallel | 🟡 Medium | [**📝 Solution**](./019-Day/2721-Execute-Asynchronous-Functions-in-Parallel.js) | [**🔗 Problem**](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | ✅ |
+| 020 | Is Object Empty | 🟢 Easy | [**📝 Solution**](./020-Day/2727-Is-Object-Empty.js) | [**🔗 Problem**](https://leetcode.com/problems/is-object-empty/) | ✅ |
+| 021 | Chunk Array | 🟢 Easy | [**📝 Solution**](./021-Day/2677-Chunk-Array.js) | [**🔗 Problem**](https://leetcode.com/problems/chunk-array/) | ✅ |
+| 022 | Array Prototype Last | 🟢 Easy | [**📝 Solution**](./022-Day/2619-Array-Prototype-Last.js) | [**🔗 Problem**](https://leetcode.com/problems/array-prototype-last/) | ✅ |
+| 023 | Group By | 🟡 Medium | [**📝 Solution**](./023-Day/2631-Group-By.js) | [**🔗 Problem**](https://leetcode.com/problems/group-by/) | ✅ |
+| 024 | Sort By | 🟢 Easy | [**📝 Solution**](./024-Day/2724-Sort-By.js) | [**🔗 Problem**](https://leetcode.com/problems/sort-by/) | ✅ |
+| 025 | Join Two Arrays by ID | 🟡 Medium | [**📝 Solution**](./025-Day/2722-Join-Two-Arrays-by-ID.js) | [**🔗 Problem**](https://leetcode.com/problems/join-two-arrays-by-id/) | ✅ |
+| 026 | Flatten Deeply Nested Array | 🟡 Medium | [**📝 Solution**](./026-Day/2625-Flatten-Deeply-Nested-Array.js) | [**🔗 Problem**](https://leetcode.com/problems/flatten-deeply-nested-array/) | ✅ |
+| 027 | Compact Object | 🟡 Medium | [**📝 Solution**](./027-Day/2705-Compact-Object.js) | [**🔗 Problem**](https://leetcode.com/problems/compact-object/) | ✅ |
+| 028 | Event Emitter | 🟡 Medium | [**📝 Solution**](./028-Day/2694-Event-Emitter.js) | [**🔗 Problem**](https://leetcode.com/problems/event-emitter/) | ✅ |
+| 029 | Array Wrapper | 🟢 Easy | [**📝 Solution**](./029-Day/2695-Array-Wrapper.js) | [**🔗 Problem**](https://leetcode.com/problems/array-wrapper/) | ✅ |
+| 030 | Calculator with Method Chaining | 🟡 Medium | [**📝 Solution**](./030-Day/2726-Calculator-with-Method-Chaining.js) | [**🔗 Problem**](https://leetcode.com/problems/calculator-with-method-chaining/) | ✅ |
 
 ---
 
@@ -365,6 +384,7 @@ This project is licensed under the **MIT License** - feel free to use for learni
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranichandnirani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandni-rani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ranichandnirani)
 
 </div>
