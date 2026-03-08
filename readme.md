@@ -1,6 +1,7 @@
-# 🚀 30 Days of JavaScript - LeetCode Challenge
+![banner](https://capsule-render.vercel.app/api?type=waving&color=1A6FED&height=180&section=header)
 
 <div align="center">
+# 🚀 30 Days of JavaScript - LeetCode Challenge
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -367,6 +368,7 @@ This project is licensed under the **MIT License** - feel free to use for learni
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranichandnirani)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandni-rani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ranichandnirani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_chan_dni/)
 
 </div>
 
@@ -395,5 +397,5 @@ _Keep Coding, Keep Growing!_ 💻✨
 ![Visitor Count](https://profile-counter.glitch.me/ranichandnirani-30-Days-of-JS-Challenge/count.svg)
 
 **⭐ If this helped you, please star this repository! ⭐**
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1A6FED&height=100&section=footer)
 </div>
